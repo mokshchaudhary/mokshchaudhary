@@ -4,7 +4,7 @@
 **mokshchaudhary/mokshchaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- https://moksh.live/
+- 🌏️ https://moksh.live/
 - 👨‍🎓️ I’m currently a CS Undergrad
 - 🇮🇳️ I’m from India
 - 🌱 I’m currently learning Flutter
