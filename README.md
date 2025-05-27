@@ -5,9 +5,8 @@
 -->
 
 - 🌏️ [Portfolio](https://mokshchaudhary.github.io/)
-- 👨‍🎓️ I’m currently a CS Undergrad
-- 🇮🇳️ I’m from India
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Application Development
+- 👨‍🎓️ I’m currently a Consultant
+- 🇮🇳️  I’m from India
+- 🌱 I’m currently learning Github Advanced Security
 - 📫 How to reach me: moksh4445@gmail.com
 - 💼️ LinkedIn Profile: https://www.linkedin.com/in/moksh-chaudhary-977841171/
